@@ -2,7 +2,7 @@
 <h1>🙌¡Hola, soy CyCklop!🙌</h1>
 </div>
 <div align="center">
-  <p>☝️🤓Soy un estudiante de primer semestre de DUOC UC, por lo tanto "programador super mega junior"🤓☝️</p>
+  <p>☝️🤓Soy un estudiante de primer semestre de DUOC UC de la carrera ANALISTA PROGRAMADOR🤓☝️</p>
 </div>
 <div align="center">
   <img src="img/inn.jpg">
