@@ -1,4 +1,4 @@
-<h1>🙌¡Hola, soy CyCklop!🙌</h1>
+<h1 algin="center">🙌¡Hola, soy CyCklop!🙌</h1>
 </div>
 <div align="center">
   <p>☝️🤓Soy un estudiante de primer semestre de DUOC UC, por lo tanto "programador super mega junior"🤓☝️</p>
