@@ -5,11 +5,12 @@
   <p>☝️🤓Soy un estudiante de primer semestre de DUOC UC de la carrera ANALISTA PROGRAMADOR🤓☝️</p>
 </div>
 <div align="center">
-  <img src="img/inn.jpg">
+  <img src="img/inn.png">
 </div>
 <div align="center">
   <p>⛓️Lenguajes (o casi lenguajes)⛓️</p>
   <a href=""><img alt="Python" src="https://img.shields.io/badge/PYTHON-306998.svg?style=flat-square&logo=python&logoColor=white"></a>
+  <a href=""><img alt="GDScript" src="https://img.shields.io/badge/GDScript-038cfc.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
   <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
   <a href=""><img alt="CSS" src="https://img.shields.io/badge/CSS-214CE5.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
   
