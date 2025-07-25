@@ -2,13 +2,13 @@
 <h1>🙌¡Hola, soy CyCklop!🙌</h1>
 </div>
 <div align="center">
-  <p>☝️🤓Soy un estudiante de primer semestre de DUOC UC de la carrera ANALISTA PROGRAMADOR🤓☝️</p>
+  <p>☝️🤓Soy un estudiante de segundo semestre de DUOC UC de la carrera ANALISTA PROGRAMADOR🤓☝️</p>
 </div>
 <div align="center">
   <img src="img/inn.png">
 </div>
 <div align="center">
-  <p>⛓️Lenguajes (o casi lenguajes)⛓️</p>
+  <p>⛓️Lenguajes que uso⛓️</p>
   <a href=""><img alt="Python" src="https://img.shields.io/badge/PYTHON-306998.svg?style=flat-square&logo=python&logoColor=white"></a>
   <a href=""><img alt="GDSCRIPT" src="https://img.shields.io/badge/GDSCRIPT-306998.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
   <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML5-E54C21.svg?style=flat-square&logo=HTML5&logoColor=white"></a>
