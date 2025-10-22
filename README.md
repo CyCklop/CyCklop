@@ -2,7 +2,7 @@
 <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 <div align="center">
-  <p>☝️🤓Soy un estudiante de segundo semestre de DUOC UC de la carrera ANALISTA PROGRAMADOR🤓☝️</p>
+  <p>☝️🤓Actualmente cursando 2 semestre de ANALISTA PROGRAMADOR en Duoc UC🤓☝️</p>
 </div>
 <div align="center">
   <img src="img/inn.png">
