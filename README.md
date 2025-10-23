@@ -8,7 +8,7 @@
   <img src="img/inn.png">
 </div>
 <div align="center">
-  <p>⛓️Lenguajes que uso⛓️</p>
+  <p>⛓️Lenguajes & herramientas que uso⛓️</p>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&labelColor=blue"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Lua-white?logo=lua&logoColor=blue"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GDscript-blue?logo=godot%20engine&logoColor=white"></a>
