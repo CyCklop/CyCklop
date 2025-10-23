@@ -16,6 +16,6 @@
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GDscript-blue?logo=godot%20engine&logoColor=white"></a>
   
   <p>🖥️Sistemas Operativos🖥️</p>
-  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Linux-orange?logo=linux&logoColor=black"></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Windows-blue?logo=windows"></a>
 </div>
