@@ -2,7 +2,7 @@
 <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 <div align="center">
-  <p>☝️🤓Actualmente cursando 2 semestre de ANALISTA PROGRAMADOR en Duoc UC🤓☝️</p>
+  <p>☝️Actualmente cursando 2 semestre de ANALISTA PROGRAMADOR en Duoc UC☝️</p>
 </div>
 <div align="center">
   <img src="img/inn.png">
@@ -17,5 +17,5 @@
   
   <p>🖥️Sistemas Operativos🖥️</p>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Linux-orange?logo=linux&logoColor=black"></a>
-  <a href=""><img alt="Windows" src="https://img.shields.io/badge/WINDOWS-00A4EF.svg?style=flat-square&logo=CSS3&logoColor=white"></a>
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Windows-blue?logo=windows"></a>
 </div>
