@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <p>⛓️Lenguajes que uso⛓️</p>
-  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"></a>
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white&labelColor=blue"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Lua-white?logo=lua&logoColor=blue"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GDscript-blue?logo=godot%20engine&logoColor=white"></a>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/Java-white?logoColor=black&labelColor=yellow"></a>
