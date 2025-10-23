@@ -11,9 +11,10 @@
   <p>⛓️Lenguajes que uso⛓️</p>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Lua-white?logo=lua&logoColor=blue"></a>
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GDscript-blue?logo=godot%20engine&logoColor=white"></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Java-white?logoColor=black&labelColor=blue"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"></a>
   <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/CSS-darkblue?logo=css&logoColor=white"></a>
-  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/GDscript-blue?logo=godot%20engine&logoColor=white"></a>
   
   <p>🖥️Sistemas Operativos🖥️</p>
   <a><img alt="Static Badge" src="https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=black"></a>
