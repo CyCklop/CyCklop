@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="img/inn.gif" width="550">
+  <img src="img/inn.gif" width="600">
   <h1>🔌Lenguajes & herramientas que uso🔌</h1>
 </div>
 
