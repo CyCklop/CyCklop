@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="img/inn.gif" width="600">
+  <img src="img/inn.gif" width="500">
 </div>
 
 <div align="center">
