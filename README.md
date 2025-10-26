@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="img/inn.gif" width="550">
-  <p>⛓️Lenguajes & herramientas que uso⛓️</p>
+  <h1>⛓️Lenguajes & herramientas que uso⛓️</h1>
   <a><img alt="Python Badge" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"></a>
   <a href=""><img alt="Lua badge" src="https://img.shields.io/badge/Lua-white?style=flat-square&logo=lua&logoColor=blue"></a>
   <a><img alt="Java Badge" src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&labelColor=red"></a>
