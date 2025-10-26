@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="gif.css">
+
 <div align="center">
 <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
