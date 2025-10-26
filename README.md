@@ -12,6 +12,9 @@
 
 <div align="center">
   <img src="img/inn.gif" width="600">
+</div>
+
+<div align="center">
   <h1>🔌Lenguajes & herramientas que uso🔌</h1>
 </div>
 
