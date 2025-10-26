@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img class="gif.css" src="img/inn.gif">
+  <img class="mi-gif" src="img/inn.gif">
 </div>
 
 <div align="center">
