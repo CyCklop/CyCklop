@@ -1,8 +1,8 @@
-<div align="right">
+<div align="left">
 <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 
-<div align="right">
+<div align="left">
   <li>Tengo 19 años</li>
   <li>Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOCUC'</li>
 </div>
