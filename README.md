@@ -3,8 +3,10 @@
 </div>
 
 <div align="left">
-  <li>Tengo 19 años</li>
-  <li>Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOCUC'</li>
+  <ul>
+    <li>Tengo 19 años</li>
+    <li>Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOCUC'</li>
+  </ul>
 </div>
 
 <div align="center">
