@@ -4,14 +4,15 @@
 
 <div align="left">
   <ul>
-    <li>Tengo 19 años</li>
-    <li>Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'</li>
+    <li>📅Tengo 19 años</li>
+    <li>💻Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'</li>
+    <li>🎶Mi hobby favorito es la música</li>
   </ul>
 </div>
 
 <div align="center">
   <img src="img/inn.gif" width="550">
-  <h1>⛓️Lenguajes & herramientas que uso⛓️</h1>
+  <h1>🔌Lenguajes & herramientas que uso🔌</h1>
 </div>
 
 <div align="center">
