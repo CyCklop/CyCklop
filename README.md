@@ -1,9 +1,10 @@
-<div align="center">
+<div align="right">
 <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 
-<div align="center">
-  <p>☝️Actualmente cursando 2 semestre de ANALISTA PROGRAMADOR en Duoc UC☝️</p>
+<div align="right">
+  <li>Tengo 19 años</li>
+  <li>Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOCUC'</li>
 </div>
 
 <div align="center">
