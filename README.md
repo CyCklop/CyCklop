@@ -6,8 +6,8 @@
   <p>☝️Actualmente cursando 2 semestre de ANALISTA PROGRAMADOR en Duoc UC☝️</p>
 </div>
 
-<div class="gif.css" align="center">
-  <img src="img/inn.gif">
+<div align="center">
+  <img class="gif.css" src="img/inn.gif">
 </div>
 
 <div align="center">
