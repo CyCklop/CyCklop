@@ -4,7 +4,7 @@
 
 <div align="left">
   <ul>
-    <li>📅Tengo 19 años</li>
+    <li>📅Tengo 20 años</li>
     <li>💻Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'</li>
     <li>🎶Mi hobby favorito es la música</li>
   </ul>
