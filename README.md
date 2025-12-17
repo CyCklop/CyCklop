@@ -24,6 +24,6 @@
   <a><img alt="Java Badge" src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&labelColor=red"></a>
   <a href=""><img alt="HTML Badge" src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"></a>
   <a href=""><img alt="CSS Badge" src="https://img.shields.io/badge/CSS-purple?style=flat-square&logo=css&logoColor=white"></a>
-  <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018.svg?style=flat-square&logo=javascript&logoColor=white"></a>
+  <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018.svg?style=flat-square&logo=javascript&logoColor=black"></a>
   <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=MySQL&logoColor=white"></a>
 </div>
