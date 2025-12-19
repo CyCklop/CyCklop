@@ -11,7 +11,7 @@
 </div>
 
 <div align="center"> 
-  <h1>🔌Lenguajes de Programación🔌</h1>
+  <h2>🔌Lenguajes de Programación🔌</h2>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <h1>🖌️FrontEnd🖌️</h1>
+  <h2>🖌️FrontEnd🖌️</h2>
 </div>
 
 <div align="center">
