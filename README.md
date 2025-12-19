@@ -1,5 +1,6 @@
-
-## 🙌¡Hola, soy Ignacio!🙌
+<div align="center"> 
+  🙌¡Hola, soy Ignacio!🙌
+</div>
 
 - 📅Tengo 20 años
 - 💻Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'
@@ -9,8 +10,10 @@
   <img src="img/inn.gif" width="400">
 </div>
 
+<div align="center"> 
+  🔌Lenguajes de Programación🔌
+</div>
 
-## 🔌Lenguajes de Programación🔌
 <div align="center">
   <a><img alt="Python Badge" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"></a>
   <a href=""><img alt="Lua badge" src="https://img.shields.io/badge/Lua-white?style=flat-square&logo=lua&logoColor=blue"></a>
@@ -18,7 +21,10 @@
   <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=MySQL&logoColor=white"></a>
 </div>
 
-## 🖌️FrontEnd🖌️
+<div align="center">
+  🖌️FrontEnd🖌️
+</div>
+
 <div align="center">
   <a href=""><img alt="HTML Badge" src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"></a>
   <a href=""><img alt="CSS Badge" src="https://img.shields.io/badge/CSS-purple?style=flat-square&logo=css&logoColor=white"></a>
