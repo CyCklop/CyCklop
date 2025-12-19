@@ -28,5 +28,6 @@
 <div align="center">
   <a href=""><img alt="HTML Badge" src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"></a>
   <a href=""><img alt="CSS Badge" src="https://img.shields.io/badge/CSS-purple?style=flat-square&logo=css&logoColor=white"></a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/TailWindCSS-blue?style=flat-square&logo=TailWind%20CSS&logoColor=white&color=blue"></a>
   <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E018.svg?style=flat-square&logo=javascript&logoColor=black"></a>
 </div>
