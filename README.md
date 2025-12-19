@@ -1,5 +1,5 @@
 <div align="center"> 
-  🙌¡Hola, soy Ignacio!🙌
+  <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 
 - 📅Tengo 20 años
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center"> 
-  🔌Lenguajes de Programación🔌
+  <h1🔌Lenguajes de Programación🔌</h1>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  🖌️FrontEnd🖌️
+  <h1>🖌️FrontEnd🖌️</h1>
 </div>
 
 <div align="center">
