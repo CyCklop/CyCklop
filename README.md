@@ -22,7 +22,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   <img src="img/Lua-Logo.svg.png" alt="Lua" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <a href=""><img alt="SQL" src="https://img.shields.io/badge/SQL-00758f.svg?style=flat-square&logo=MySQL&logoColor=white"></a>
+  <img src="img/sql.png" alt="sql" height="50" />
 </div>
 
 <div align="left">
