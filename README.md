@@ -5,7 +5,7 @@
 **Actualmente cursando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'**
 
 <div align="center">
-  <img src="img/inn.gif" width="400">
+  <img src="img/dks.gif" width="800">
 </div>
 
 **SOBRE MÍ**
