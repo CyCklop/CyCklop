@@ -2,13 +2,13 @@
   <h1>🙌¡Hola, soy Ignacio!🙌</h1>
 </div>
 
-Actualmente cursando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'
+**Actualmente cursando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'**
 
-<div align="right">
+<div align="center">
   <img src="img/inn.gif" width="400">
 </div>
 
-SOBRE MÍ
+**SOBRE MÍ**
 
 - 📅Tengo 20 años
 - 🔌Mis lenguajes preferidos son Lua y Java
