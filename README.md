@@ -11,7 +11,7 @@ Actualmente cursando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'
 SOBRE MÍ
 
 - 📅Tengo 20 años
-- 💻Actualmente estudiando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'
+- 🔌Mis lenguajes preferidos son Lua y Java
 - 🎶Mi hobby favorito es la música
 
 <div align="left">
