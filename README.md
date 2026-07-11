@@ -13,7 +13,7 @@
 - 📅Tengo 20 años
 - 🔌Mis lenguajes preferidos son Java y C
 - 🎶Mis hobbys son la música y hacer proyectos
-- ⚙️Interesado en la Automatización
+- ⚙️Interesado en la Automatización y el Hardware
 
 <div align="left">
   <h2>🔌Lenguajes & Frameworks🔌</h2>
