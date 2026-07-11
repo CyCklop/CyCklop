@@ -40,5 +40,5 @@
 </div>
 
 <div align="center"
-  <img src="img/spring-logo.png" alt="spring" height="50"/>
+  <img src="img/spring-logo.png" alt="spring" height="50" />
 </div>
