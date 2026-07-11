@@ -16,7 +16,7 @@
 - ⚙️Interesado en la Automatización y el Hardware
 
 <div align="left">
-  <h2>🔌Lenguajes & Frameworks🔌</h2>
+  <h2>🔌Lenguajes & Herramientas🔌</h2>
 </div>
 
 <div align="center">
@@ -25,13 +25,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
   <img src="img/sql.png" alt="sql" height="50" />
   <img src="img/spring-logo.png" alt="spring" height="50">
-</div>
-
-<div align="left">
-  <h2>🖌️FrontEnd🖌️</h2>
-</div>
-
-<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
