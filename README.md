@@ -22,8 +22,8 @@
   <img src="img/c-logo.png" alt="C" height="50"/>
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img src="img/spring-logo.png" alt="spring" height="50">
   <img src="img/sql.png" alt="sql" height="50" />
+  <img src="img/spring-logo.png" alt="spring" height="50">
 </div>
 
 <div align="left">
