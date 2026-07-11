@@ -11,8 +11,9 @@
 **SOBRE MÍ**
 
 - 📅Tengo 20 años
-- 🔌Mis lenguajes preferidos son Lua y C
+- 🔌Mis lenguajes preferidos son Java y C
 - 🎶Mi hobby favorito es la música
+- ⚙️Interesado en la Automatización
 
 <div align="left">
   <h2>🔌Lenguajes & Frameworks🔌</h2>
