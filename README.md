@@ -34,4 +34,6 @@
   <h2>📊Github Stats</h2>
 </div>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
+</div>
