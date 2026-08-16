@@ -29,3 +29,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
 </div>
+
+# GitHub Stats
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
