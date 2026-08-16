@@ -30,5 +30,9 @@
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
 </div>
 
-# GitHub Stats
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+  <h2>📊Github Stats</h2>
+</div>
+<div align="center">
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
