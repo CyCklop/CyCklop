@@ -1,23 +1,20 @@
-<div align="center"> 
-  <h1>🙌¡Hola, soy Ignacio!🙌</h1>
-</div>
-
-**Actualmente cursando la carrera 'ANALISTA PROGRAMADOR' en 'DUOC UC'**
-
 <div align="center">
-  <img src="img/dks.gif" width="600">
+
+# 🙌 ¡Hola, soy Ignacio! 🙌
+
+Estudiante de **Analista Programador** en **Duoc UC**
+
+<img src="img/dks.gif" width="600">
+
 </div>
 
-**SOBRE MÍ**
+## 👨‍💻 Sobre mí
 
-- 📅Tengo 20 años
 - 🔌Mis lenguajes preferidos son Java y C
-- 🎶Mis hobbys son la música y hacer proyectos
-- ⚙️Interesado en la Automatización, Desarrollo Backend y el Hardware
+- 🎶Me gusta la música y hacer proyectos
+- ⚙️Me gusta la automatización, el desarrollo Backend y el hardware
 
-<div align="left">
-  <h2>🔌Lenguajes & Herramientas🔌</h2>
-</div>
+## 🔌 Lenguajes y Herramientas
 
 <div align="center">
   <img src="img/c-logo.png" alt="C" height="50"/>
@@ -31,9 +28,7 @@
   <img src="img/logo-kot.png" alt="Kotlin" height="40" />
 </div>
 
-<div align="left">
-  <h2>📊Github Stats</h2>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
