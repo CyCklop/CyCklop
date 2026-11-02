@@ -17,7 +17,8 @@ Estudiante de **Analista Programador** en **Duoc UC**
 ## 🔌 Lenguajes y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,java,spring,mysql,html,css,js,kotlin,git,linux" alt="Lenguajes y herramientas" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,spring,html,css,js,kotlin,git,linux" alt="Lenguajes y herramientas" />
+  <img src="img/sql.png" alt="Oracle SQL" height="48" />
 </div>
 
 ## 📊 GitHub Stats
