@@ -17,15 +17,7 @@ Estudiante de **Analista Programador** en **Duoc UC**
 ## 🔌 Lenguajes y Herramientas
 
 <div align="center">
-  <img src="img/c-logo.png" alt="C" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img src="img/sql.png" alt="sql" height="50" />
-  <img src="img/spring-logo.png" alt="spring" height="50">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-  <img src="img/logo-kot.png" alt="Kotlin" height="40" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,spring,mysql,html,css,js,kotlin,git,linux" alt="Lenguajes y herramientas" />
 </div>
 
 ## 📊 GitHub Stats
