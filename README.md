@@ -17,27 +17,8 @@ Estudiante de **Analista Programador** en **Duoc UC**
 ## 🔌 Lenguajes y herramientas
 
 <div align="center">
-
-**Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=c,py,java,kotlin,js" alt="C, Python, Java, Kotlin y JavaScript" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS y React" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-
-**Bases de datos**
-
-<img src="img/sql.png" alt="Oracle SQL" height="48" />
-
-**Herramientas y SO**
-
-<img src="https://skillicons.dev/icons?i=git,linux" alt="Git y Linux" />
-
+  <img src="https://skillicons.dev/icons?i=c,py,java,spring,html,css,js,react,kotlin,git,linux" alt="Lenguajes y herramientas" />
+  <img src="img/sql.png" alt="Oracle SQL" height="48" />
 </div>
 
 ## 📊 GitHub Stats
