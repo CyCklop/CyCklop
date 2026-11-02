@@ -14,12 +14,15 @@ Estudiante de **Analista Programador** en **Duoc UC**
 - 🐧 Me gusta Linux, el software open-source, la automatización, el backend y el hardware
 - 🔭 Fuera del código: me gusta la astronomía y la música
 
-## 🔌 Lenguajes y Herramientas
+## 🔌 Lenguajes y herramientas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,java,spring,html,css,js,kotlin,git,linux" alt="Lenguajes y herramientas" />
-  <img src="img/sql.png" alt="Oracle SQL" height="48" />
-</div>
+| Área                  | Tecnologías                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Lenguajes**         | <img src="https://skillicons.dev/icons?i=c,py,java,kotlin,js" alt="C, Python, Java, Kotlin y JavaScript" /> |
+| **Frontend**          | <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS y React" />                         |
+| **Backend**           | <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />                                            |
+| **Bases de datos**    | <img src="img/sql.png" alt="Oracle SQL" height="48" />                                                      |
+| **Herramientas y S.O** | <img src="https://skillicons.dev/icons?i=git,linux" alt="Git y Linux" />                                    |
 
 ## 📊 GitHub Stats
 
