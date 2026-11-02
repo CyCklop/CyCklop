@@ -10,9 +10,9 @@ Estudiante de **Analista Programador** en **Duoc UC**
 
 ## 👨‍💻 Sobre mí
 
-- 🔌Mis lenguajes preferidos son Java y C
-- 🎶Me gusta la música y hacer proyectos
-- ⚙️Me gusta la automatización, el desarrollo Backend y el hardware
+- 💻 Mis lenguajes preferidos son Java y C
+- 🐧 Me gusta Linux, el software open-source, la automatización, el backend y el hardware
+- 🔭 Fuera del código: me gusta la astronomía y la música
 
 ## 🔌 Lenguajes y Herramientas
 
