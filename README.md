@@ -4,7 +4,15 @@
 
 Estudiante de **Analista Programador** en **Duoc UC**
 
-<img src="img/dks.gif" width="600">
+```java
+System.out.println("The right man in the wrong place can make all the difference in the world.");
+```
+
+Salida:
+
+```text
+The right man in the wrong place can make all the difference in the world.
+```
 
 </div>
 
