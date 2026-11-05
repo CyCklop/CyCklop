@@ -17,8 +17,9 @@ public class GMan {
 ## 👨‍💻 Sobre mí
 
 - 💻 Mis lenguajes preferidos son Java y C
-- 🐧 Me gusta Linux, el software open-source, la automatización, el backend y el hardware
+- 🐧 Uso linux a diario para programar
 - 🔭 Fuera del código: me gusta la astronomía y la música
+- ⚙️ Me interesan el software open-source, la automatización, el backend y el hardware
 
 ## 🔌 Lenguajes y herramientas
 
