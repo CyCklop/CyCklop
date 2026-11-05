@@ -5,13 +5,11 @@
 Estudiante de **Analista Programador** en **Duoc UC**
 
 ```java
-System.out.println("The right man in the wrong place can make all the difference in the world.");
-```
-
-Salida:
-
-```text
-The right man in the wrong place can make all the difference in the world.
+public class GMan {
+    public static void main(String[] args) {
+        System.out.println("The right man in the wrong place can make all the difference in the world.");
+    }
+}
 ```
 
 </div>
