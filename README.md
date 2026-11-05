@@ -4,6 +4,8 @@
 
 Estudiante de **Analista Programador** en **Duoc UC**
 
+</div>
+
 ```java
 public class GMan {
     public static void main(String[] args) {
@@ -11,8 +13,6 @@ public class GMan {
     }
 }
 ```
-
-</div>
 
 ## 👨‍💻 Sobre mí
 
