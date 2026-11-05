@@ -31,5 +31,5 @@ public class GMan {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyCklop&show_icons=true&theme=dark" alt="Stats" width="450" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CyCklop&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" />
 </div>
